@@ -1,0 +1,52 @@
+/*This is an external style sheet*/
+body {
+ background-color: darkgray;
+}
+/*This is changing the body background color to gray*/
+
+h1{
+ text-align: center;
+ color: aqua;
+ text-decoration: underline;
+ display:inline;
+ padding:90px;
+}
+/*The h1 style is being changed to a blue color and is being aligned to the center. I also underlined h1*/
+
+img{
+    border: 1px;
+    border-radius: 1px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding:5px;
+}
+/*This is the styles for the image. I centered it and sized it to fit on the website page, I used w3 schools to help me on this bit.*/
+
+h2
+{
+ font-size:30px;
+ text-align: center;
+ color: aqua;
+
+}
+
+p
+{
+ text-indent: 10px;
+ width: 1000px; 
+ font-size:26px;
+ font-weight: bolder;
+ text-align: center;
+ margin-left:auto;
+ margin-right:auto;
+ /*With text-indent the paragraph is now indented 10px, I made the width 1000px to align it on the page, 
+ The text is now aligned to the center and I used margin-left and right to automatically center the paragraph.*/
+}
+
+h3{
+    color:aqua;
+    font-size:30px;
+}
+
